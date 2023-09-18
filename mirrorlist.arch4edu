@@ -4,8 +4,6 @@ Server = https://repository.arch4edu.org/$arch
 ## China
 #### Tsinghua University (Source)
 #Server = https://mirrors.tuna.tsinghua.edu.cn/arch4edu/$arch
-#### Aliyun
-#Server = https://mirrors.aliyun.com/arch4edu/$arch
 #### Beijing Foreign Studies University
 #Server = https://mirrors.bfsu.edu.cn/arch4edu/$arch
 #### Institute of Software, Chinese Academy of Sciences
@@ -14,8 +12,6 @@ Server = https://repository.arch4edu.org/$arch
 #Server = https://mirrors.nju.edu.cn/arch4edu/$arch
 #### Shenyang Aerospace University
 #Server = https://mirrors.sau.edu.cn/arch4edu/$arch
-#### Tencent
-##Server = https://mirrors.tencent.com/arch4edu/$arch
 #### Yunnan University
 #Server = https://mirrors.ynu.edu.cn/arch4edu/$arch
 
